@@ -2,7 +2,7 @@
 set -euo pipefail
 
 # ── Configuration ────────────────────────────────────────────────────
-ENV_NAME="growth-rate-api"
+ENV_NAME="python310"
 HOST="0.0.0.0"
 PORT=5000
 WORKERS=6
